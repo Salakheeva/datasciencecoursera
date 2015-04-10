@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera online course
+Coursera assignment
